@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: WoungSub-Devlog
+description: Engineer의 공부 기록소
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -36,7 +36,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/WoungSub-Byun
 google_site_verification: xxxxx
 lang: en
 
